@@ -1,0 +1,15 @@
+C:\Users\antho\repos\ConstructorsPractice\obj\Debug\net5.0\ConstructorsPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\repos\ConstructorsPractice\obj\Debug\net5.0\ConstructorsPractice.AssemblyInfoInputs.cache
+C:\Users\antho\repos\ConstructorsPractice\obj\Debug\net5.0\ConstructorsPractice.AssemblyInfo.cs
+C:\Users\antho\repos\ConstructorsPractice\obj\Debug\net5.0\ConstructorsPractice.csproj.CoreCompileInputs.cache
+C:\Users\antho\repos\ConstructorsPractice\bin\Debug\net5.0\ConstructorsPractice.exe
+C:\Users\antho\repos\ConstructorsPractice\bin\Debug\net5.0\ConstructorsPractice.deps.json
+C:\Users\antho\repos\ConstructorsPractice\bin\Debug\net5.0\ConstructorsPractice.runtimeconfig.json
+C:\Users\antho\repos\ConstructorsPractice\bin\Debug\net5.0\ConstructorsPractice.runtimeconfig.dev.json
+C:\Users\antho\repos\ConstructorsPractice\bin\Debug\net5.0\ConstructorsPractice.dll
+C:\Users\antho\repos\ConstructorsPractice\bin\Debug\net5.0\ref\ConstructorsPractice.dll
+C:\Users\antho\repos\ConstructorsPractice\bin\Debug\net5.0\ConstructorsPractice.pdb
+C:\Users\antho\repos\ConstructorsPractice\obj\Debug\net5.0\ConstructorsPractice.dll
+C:\Users\antho\repos\ConstructorsPractice\obj\Debug\net5.0\ref\ConstructorsPractice.dll
+C:\Users\antho\repos\ConstructorsPractice\obj\Debug\net5.0\ConstructorsPractice.pdb
+C:\Users\antho\repos\ConstructorsPractice\obj\Debug\net5.0\ConstructorsPractice.genruntimeconfig.cache
